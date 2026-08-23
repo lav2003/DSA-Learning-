@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/lav2003/DSA-Learning-/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0620-not-boring-movies](https://github.com/lav2003/DSA-Learning-/tree/master/0620-not-boring-movies) |
+| [1934-confirmation-rate](https://github.com/lav2003/DSA-Learning-/tree/master/1934-confirmation-rate) |
 ## Array
 |  |
 | ------- |
