@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/lav2003/DSA-Learning-/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/lav2003/DSA-Learning-/tree/master/0169-majority-element) |
+| [0485-max-consecutive-ones](https://github.com/lav2003/DSA-Learning-/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/lav2003/DSA-Learning-/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/lav2003/DSA-Learning-/tree/master/1004-max-consecutive-ones-iii) |
 | [1995-count-special-quadruplets](https://github.com/lav2003/DSA-Learning-/tree/master/1995-count-special-quadruplets) |
