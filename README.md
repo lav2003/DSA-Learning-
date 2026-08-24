@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/lav2003/DSA-Learning-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lav2003/DSA-Learning-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/lav2003/DSA-Learning-/tree/master/0027-remove-element) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lav2003/DSA-Learning-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/lav2003/DSA-Learning-/tree/master/0169-majority-element) |
 | [0485-max-consecutive-ones](https://github.com/lav2003/DSA-Learning-/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/lav2003/DSA-Learning-/tree/master/0904-fruit-into-baskets) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/lav2003/DSA-Learning-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lav2003/DSA-Learning-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/lav2003/DSA-Learning-/tree/master/0027-remove-element) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lav2003/DSA-Learning-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/lav2003/DSA-Learning-/tree/master/0141-linked-list-cycle) |
 ## Sorting
 |  |
