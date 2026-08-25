@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/lav2003/DSA-Learning-/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lav2003/DSA-Learning-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/lav2003/DSA-Learning-/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/lav2003/DSA-Learning-/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/lav2003/DSA-Learning-/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/lav2003/DSA-Learning-/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/lav2003/DSA-Learning-/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/lav2003/DSA-Learning-/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/lav2003/DSA-Learning-/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/lav2003/DSA-Learning-/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/lav2003/DSA-Learning-/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/lav2003/DSA-Learning-/tree/master/0904-fruit-into-baskets) |
 | [1995-count-special-quadruplets](https://github.com/lav2003/DSA-Learning-/tree/master/1995-count-special-quadruplets) |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/lav2003/DSA-Learning-/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/lav2003/DSA-Learning-/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/lav2003/DSA-Learning-/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
@@ -104,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/lav2003/DSA-Learning-/tree/master/0287-find-the-duplicate-number) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/lav2003/DSA-Learning-/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
