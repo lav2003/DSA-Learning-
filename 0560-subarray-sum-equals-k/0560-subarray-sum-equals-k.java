@@ -15,7 +15,6 @@ class Solution {
             freq.put(sum,freq.getOrDefault(sum,0)+1);
         }
         return res;
-
-        
+  
     }
 }
