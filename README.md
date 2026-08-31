@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/lav2003/DSA-Learning-/tree/master/1075-project-employees-i) |
 | [1661-average-time-of-process-per-machine](https://github.com/lav2003/DSA-Learning-/tree/master/1661-average-time-of-process-per-machine) |
 | [1934-confirmation-rate](https://github.com/lav2003/DSA-Learning-/tree/master/1934-confirmation-rate) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/lav2003/DSA-Learning-/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
 |  |
 | ------- |
