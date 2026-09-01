@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0619-biggest-single-number](https://github.com/lav2003/DSA-Learning-/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/lav2003/DSA-Learning-/tree/master/0620-not-boring-movies) |
 | [1075-project-employees-i](https://github.com/lav2003/DSA-Learning-/tree/master/1075-project-employees-i) |
+| [1174-immediate-food-delivery-ii](https://github.com/lav2003/DSA-Learning-/tree/master/1174-immediate-food-delivery-ii) |
 | [1661-average-time-of-process-per-machine](https://github.com/lav2003/DSA-Learning-/tree/master/1661-average-time-of-process-per-machine) |
 | [1729-find-followers-count](https://github.com/lav2003/DSA-Learning-/tree/master/1729-find-followers-count) |
 | [1934-confirmation-rate](https://github.com/lav2003/DSA-Learning-/tree/master/1934-confirmation-rate) |
