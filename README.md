@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/lav2003/DSA-Learning-/tree/master/0076-minimum-window-substring) |
 | [0412-fizz-buzz](https://github.com/lav2003/DSA-Learning-/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/lav2003/DSA-Learning-/tree/master/0424-longest-repeating-character-replacement) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lav2003/DSA-Learning-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/lav2003/DSA-Learning-/tree/master/2390-removing-stars-from-a-string) |
 ## Enumeration
 |  |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/lav2003/DSA-Learning-/tree/master/0234-palindrome-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lav2003/DSA-Learning-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2390-removing-stars-from-a-string](https://github.com/lav2003/DSA-Learning-/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
