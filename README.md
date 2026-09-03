@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/lav2003/DSA-Learning-/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/lav2003/DSA-Learning-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1995-count-special-quadruplets](https://github.com/lav2003/DSA-Learning-/tree/master/1995-count-special-quadruplets) |
+| [3875-construct-uniform-parity-array-i](https://github.com/lav2003/DSA-Learning-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/lav2003/DSA-Learning-/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/lav2003/DSA-Learning-/tree/master/0412-fizz-buzz) |
+| [3875-construct-uniform-parity-array-i](https://github.com/lav2003/DSA-Learning-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
 |  |
 | ------- |
