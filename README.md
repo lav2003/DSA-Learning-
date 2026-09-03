@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/lav2003/DSA-Learning-/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/lav2003/DSA-Learning-/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/lav2003/DSA-Learning-/tree/master/0509-fibonacci-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/lav2003/DSA-Learning-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
 |  |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/lav2003/DSA-Learning-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/lav2003/DSA-Learning-/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/lav2003/DSA-Learning-/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/lav2003/DSA-Learning-/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/lav2003/DSA-Learning-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/lav2003/DSA-Learning-/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/lav2003/DSA-Learning-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -204,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/lav2003/DSA-Learning-/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/lav2003/DSA-Learning-/tree/master/0739-daily-temperatures) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/lav2003/DSA-Learning-/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
