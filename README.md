@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lav2003/DSA-Learning-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/lav2003/DSA-Learning-/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/lav2003/DSA-Learning-/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/lav2003/DSA-Learning-/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/lav2003/DSA-Learning-/tree/master/0076-minimum-window-substring) |
 | [0412-fizz-buzz](https://github.com/lav2003/DSA-Learning-/tree/master/0412-fizz-buzz) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/lav2003/DSA-Learning-/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/lav2003/DSA-Learning-/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/lav2003/DSA-Learning-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/lav2003/DSA-Learning-/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lav2003/DSA-Learning-/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/lav2003/DSA-Learning-/tree/master/0022-generate-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -217,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/lav2003/DSA-Learning-/tree/master/0258-add-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/lav2003/DSA-Learning-/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
