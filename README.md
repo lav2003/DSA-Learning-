@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/lav2003/DSA-Learning-/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/lav2003/DSA-Learning-/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/lav2003/DSA-Learning-/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/lav2003/DSA-Learning-/tree/master/0412-fizz-buzz) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/lav2003/DSA-Learning-/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/lav2003/DSA-Learning-/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/lav2003/DSA-Learning-/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/lav2003/DSA-Learning-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/lav2003/DSA-Learning-/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/lav2003/DSA-Learning-/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/lav2003/DSA-Learning-/tree/master/0509-fibonacci-number) |
 ## Number Theory
 |  |
