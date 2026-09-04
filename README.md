@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/lav2003/DSA-Learning-/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/lav2003/DSA-Learning-/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/lav2003/DSA-Learning-/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/lav2003/DSA-Learning-/tree/master/0509-fibonacci-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/lav2003/DSA-Learning-/tree/master/3875-construct-uniform-parity-array-i) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/lav2003/DSA-Learning-/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/lav2003/DSA-Learning-/tree/master/0412-fizz-buzz) |
 | [2390-removing-stars-from-a-string](https://github.com/lav2003/DSA-Learning-/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/lav2003/DSA-Learning-/tree/master/0509-fibonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/lav2003/DSA-Learning-/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
