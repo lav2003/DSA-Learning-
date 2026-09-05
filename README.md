@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1174-immediate-food-delivery-ii](https://github.com/lav2003/DSA-Learning-/tree/master/1174-immediate-food-delivery-ii) |
 | [1251-average-selling-price](https://github.com/lav2003/DSA-Learning-/tree/master/1251-average-selling-price) |
 | [1661-average-time-of-process-per-machine](https://github.com/lav2003/DSA-Learning-/tree/master/1661-average-time-of-process-per-machine) |
+| [1667-fix-names-in-a-table](https://github.com/lav2003/DSA-Learning-/tree/master/1667-fix-names-in-a-table) |
 | [1729-find-followers-count](https://github.com/lav2003/DSA-Learning-/tree/master/1729-find-followers-count) |
 | [1873-calculate-special-bonus](https://github.com/lav2003/DSA-Learning-/tree/master/1873-calculate-special-bonus) |
 | [1934-confirmation-rate](https://github.com/lav2003/DSA-Learning-/tree/master/1934-confirmation-rate) |
