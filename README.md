@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/lav2003/DSA-Learning-/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/lav2003/DSA-Learning-/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/lav2003/DSA-Learning-/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0977-squares-of-a-sorted-array](https://github.com/lav2003/DSA-Learning-/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/lav2003/DSA-Learning-/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/lav2003/DSA-Learning-/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/lav2003/DSA-Learning-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/lav2003/DSA-Learning-/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/lav2003/DSA-Learning-/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/lav2003/DSA-Learning-/tree/master/0876-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/lav2003/DSA-Learning-/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/lav2003/DSA-Learning-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sorting
 |  |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/lav2003/DSA-Learning-/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/lav2003/DSA-Learning-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/lav2003/DSA-Learning-/tree/master/0169-majority-element) |
+| [0977-squares-of-a-sorted-array](https://github.com/lav2003/DSA-Learning-/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
