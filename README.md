@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/lav2003/DSA-Learning-/tree/master/0620-not-boring-movies) |
 | [1075-project-employees-i](https://github.com/lav2003/DSA-Learning-/tree/master/1075-project-employees-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/lav2003/DSA-Learning-/tree/master/1174-immediate-food-delivery-ii) |
+| [1211-queries-quality-and-percentage](https://github.com/lav2003/DSA-Learning-/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/lav2003/DSA-Learning-/tree/master/1251-average-selling-price) |
 | [1661-average-time-of-process-per-machine](https://github.com/lav2003/DSA-Learning-/tree/master/1661-average-time-of-process-per-machine) |
 | [1667-fix-names-in-a-table](https://github.com/lav2003/DSA-Learning-/tree/master/1667-fix-names-in-a-table) |
