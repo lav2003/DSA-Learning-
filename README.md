@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/lav2003/DSA-Learning-/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/lav2003/DSA-Learning-/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/lav2003/DSA-Learning-/tree/master/0503-next-greater-element-ii) |
+| [0523-continuous-subarray-sum](https://github.com/lav2003/DSA-Learning-/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/lav2003/DSA-Learning-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/lav2003/DSA-Learning-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/lav2003/DSA-Learning-/tree/master/0724-find-pivot-index) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/lav2003/DSA-Learning-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/lav2003/DSA-Learning-/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/lav2003/DSA-Learning-/tree/master/0424-longest-repeating-character-replacement) |
+| [0523-continuous-subarray-sum](https://github.com/lav2003/DSA-Learning-/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/lav2003/DSA-Learning-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/lav2003/DSA-Learning-/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/lav2003/DSA-Learning-/tree/master/0904-fruit-into-baskets) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/lav2003/DSA-Learning-/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/lav2003/DSA-Learning-/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/lav2003/DSA-Learning-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/lav2003/DSA-Learning-/tree/master/0724-find-pivot-index) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/lav2003/DSA-Learning-/tree/master/0287-find-the-duplicate-number) |
+| [0523-continuous-subarray-sum](https://github.com/lav2003/DSA-Learning-/tree/master/0523-continuous-subarray-sum) |
 ## Math
 |  |
 | ------- |
@@ -175,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/lav2003/DSA-Learning-/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/lav2003/DSA-Learning-/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/lav2003/DSA-Learning-/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/lav2003/DSA-Learning-/tree/master/0523-continuous-subarray-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/lav2003/DSA-Learning-/tree/master/3875-construct-uniform-parity-array-i) |
 ## Stack
 |  |
