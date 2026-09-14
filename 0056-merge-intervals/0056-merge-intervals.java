@@ -7,7 +7,6 @@ class Solution {
         int end1 = intervals[0][1];
 
         for (int i = 1; i < intervals.length; i++) {
-
             int s2 = intervals[i][0];
             int e2 = intervals[i][1];
             if (end1 >= s2) {
