@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/lav2003/DSA-Learning-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/lav2003/DSA-Learning-/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/lav2003/DSA-Learning-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/lav2003/DSA-Learning-/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/lav2003/DSA-Learning-/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/lav2003/DSA-Learning-/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/lav2003/DSA-Learning-/tree/master/0287-find-the-duplicate-number) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lav2003/DSA-Learning-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0076-minimum-window-substring](https://github.com/lav2003/DSA-Learning-/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/lav2003/DSA-Learning-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/lav2003/DSA-Learning-/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/lav2003/DSA-Learning-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/lav2003/DSA-Learning-/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/lav2003/DSA-Learning-/tree/master/0424-longest-repeating-character-replacement) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/lav2003/DSA-Learning-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/lav2003/DSA-Learning-/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/lav2003/DSA-Learning-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/lav2003/DSA-Learning-/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/lav2003/DSA-Learning-/tree/master/0876-middle-of-the-linked-list) |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/lav2003/DSA-Learning-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/lav2003/DSA-Learning-/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/lav2003/DSA-Learning-/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/lav2003/DSA-Learning-/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
