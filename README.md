@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/lav2003/DSA-Learning-/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/lav2003/DSA-Learning-/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/lav2003/DSA-Learning-/tree/master/0202-happy-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/lav2003/DSA-Learning-/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/lav2003/DSA-Learning-/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/lav2003/DSA-Learning-/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/lav2003/DSA-Learning-/tree/master/0525-contiguous-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/lav2003/DSA-Learning-/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/lav2003/DSA-Learning-/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/lav2003/DSA-Learning-/tree/master/0076-minimum-window-substring) |
+| [0387-first-unique-character-in-a-string](https://github.com/lav2003/DSA-Learning-/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/lav2003/DSA-Learning-/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/lav2003/DSA-Learning-/tree/master/0424-longest-repeating-character-replacement) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lav2003/DSA-Learning-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/lav2003/DSA-Learning-/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/lav2003/DSA-Learning-/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/lav2003/DSA-Learning-/tree/master/0387-first-unique-character-in-a-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/lav2003/DSA-Learning-/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
