@@ -13,11 +13,9 @@ class Solution {
         }
         ListNode curr = t;
         ListNode prev = null;
-
         int times = right - left + 1;
         while (times > 0) {
             ListNode next = curr.next;
-
             curr.next = prev;
             prev = curr;
             curr = next;
