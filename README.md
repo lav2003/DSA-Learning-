@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/lav2003/DSA-Learning-/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/lav2003/DSA-Learning-/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/lav2003/DSA-Learning-/tree/master/0287-find-the-duplicate-number) |
+| [0443-string-compression](https://github.com/lav2003/DSA-Learning-/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/lav2003/DSA-Learning-/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/lav2003/DSA-Learning-/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/lav2003/DSA-Learning-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/lav2003/DSA-Learning-/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/lav2003/DSA-Learning-/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/lav2003/DSA-Learning-/tree/master/0424-longest-repeating-character-replacement) |
+| [0443-string-compression](https://github.com/lav2003/DSA-Learning-/tree/master/0443-string-compression) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lav2003/DSA-Learning-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1189-maximum-number-of-balloons](https://github.com/lav2003/DSA-Learning-/tree/master/1189-maximum-number-of-balloons) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/lav2003/DSA-Learning-/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
