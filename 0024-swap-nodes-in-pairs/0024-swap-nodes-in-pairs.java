@@ -1,33 +1,53 @@
 class Solution {
-
-    void reverse(ListNode head, int k) {
-        ListNode prev = null, curr = head;
-        while (k-- > 0) {
-            ListNode next = curr.next;
+    void reverse(ListNode head, int times) {
+        ListNode curr = head;
+        ListNode prev = null;
+        while (times-- > 0) {
+            ListNode nex = curr.next;
             curr.next = prev;
             prev = curr;
-            curr = next;
+            curr = nex;
         }
     }
     public ListNode swapPairs(ListNode head) {
-        if (head == null || head.next == null){
-            return head;
-        }
-        ListNode left = head, prev = null, res = null;
-        while (left != null && left.next != null) {
-            ListNode right = left.next;
-            ListNode next = right.next;
-            reverse(left, 2);
-            if (prev != null){
-                prev.next = right;
+        if (head == null)
+            return null;
+        int size = 2;
+        ListNode left = head;
+        ListNode right;
+        ListNode res = null;
+        ListNode prevleft = null;
+        while (true) {
+            right = left;
+            // Find the second node of the pair
+            for (int i = 0; i < size - 1; i++) {
+                if (right == null)
+                    break;
+                right = right.next;
             }
-            else{
-                res = right;
+            // Pair exists
+            if (right != null) {
+                ListNode nextleft = right.next;
+                // Reverse 2 nodes
+                reverse(left, size);
+                // Connect previous pair
+                if (prevleft != null)
+                    prevleft.next = right;
+                prevleft = left;
+                // First pair gives the new head
+                if (res == null)
+                    res = right;
+                left = nextleft;
             }
-            prev = left;
-            left = next;
+            // Less than 2 nodes remaining
+            else {
+                if (prevleft != null)
+                    prevleft.next = left;
+                if (res == null)
+                    res = left;
+                break;
+            }
         }
-        prev.next = left;
         return res;
     }
 }
