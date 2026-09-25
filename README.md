@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/lav2003/DSA-Learning-/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/lav2003/DSA-Learning-/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/lav2003/DSA-Learning-/tree/master/0287-find-the-duplicate-number) |
+| [0392-is-subsequence](https://github.com/lav2003/DSA-Learning-/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/lav2003/DSA-Learning-/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/lav2003/DSA-Learning-/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/lav2003/DSA-Learning-/tree/master/0977-squares-of-a-sorted-array) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/lav2003/DSA-Learning-/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/lav2003/DSA-Learning-/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/lav2003/DSA-Learning-/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/lav2003/DSA-Learning-/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/lav2003/DSA-Learning-/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/lav2003/DSA-Learning-/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/lav2003/DSA-Learning-/tree/master/0424-longest-repeating-character-replacement) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/lav2003/DSA-Learning-/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/lav2003/DSA-Learning-/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/lav2003/DSA-Learning-/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/lav2003/DSA-Learning-/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/lav2003/DSA-Learning-/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/lav2003/DSA-Learning-/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/lav2003/DSA-Learning-/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
