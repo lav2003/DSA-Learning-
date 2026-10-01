@@ -9,9 +9,9 @@ class Solution {
             while (freq.get(ch) > 1) {
                 char x = s.charAt(l);
                 freq.put(x, freq.get(x) - 1);
-                if (freq.get(x) == 0) {
-                    freq.remove(x);
-                }
+                // if (freq.get(x) == 0) {
+                //     freq.remove(x);
+                // }
                 l++;
             }
             int len = h - l + 1;
