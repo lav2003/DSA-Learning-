@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/lav2003/DSA-Learning-/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/lav2003/DSA-Learning-/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/lav2003/DSA-Learning-/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1480-running-sum-of-1d-array](https://github.com/lav2003/DSA-Learning-/tree/master/1480-running-sum-of-1d-array) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/lav2003/DSA-Learning-/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1995-count-special-quadruplets](https://github.com/lav2003/DSA-Learning-/tree/master/1995-count-special-quadruplets) |
 | [3875-construct-uniform-parity-array-i](https://github.com/lav2003/DSA-Learning-/tree/master/3875-construct-uniform-parity-array-i) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/lav2003/DSA-Learning-/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/lav2003/DSA-Learning-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/lav2003/DSA-Learning-/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/lav2003/DSA-Learning-/tree/master/1480-running-sum-of-1d-array) |
 ## Linked List
 |  |
 | ------- |
