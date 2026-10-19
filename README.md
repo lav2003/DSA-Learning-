@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/lav2003/DSA-Learning-/tree/master/0112-path-sum) |
 | [0279-perfect-squares](https://github.com/lav2003/DSA-Learning-/tree/master/0279-perfect-squares) |
 ## Knapsack Problem
 |  |
@@ -324,12 +325,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/lav2003/DSA-Learning-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/lav2003/DSA-Learning-/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/lav2003/DSA-Learning-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/lav2003/DSA-Learning-/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/lav2003/DSA-Learning-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0112-path-sum](https://github.com/lav2003/DSA-Learning-/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
